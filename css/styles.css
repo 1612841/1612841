@@ -1,0 +1,47 @@
+.row-header {
+    color: aliceblue;  
+    background-color: rgb(171, 117, 221);
+    height: 240px;
+    align-items: center;
+    border-radius: 5px;
+    padding: 0px 90px;
+}
+.jumbotron{
+    margin-top: 10px;
+}
+.footer{
+    margin-bottom: 10px;
+}
+.row-history{
+    padding: 40px 40px;
+}
+.row-name {
+    padding: 40px 48px;
+}
+.row-name small {
+    font-weight: lighter;
+}
+.footer_row{
+    background-color: rgb(205, 188, 231);
+    border-radius: 5px;
+}
+.row-footer{
+    padding: 15px 10px 0px 100px;
+}
+.social_page{
+    padding: 0px 30px;
+}
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+
+.navbar-dark {
+     background-color: #512DA8;
+}
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
